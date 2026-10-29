@@ -1,2 +1,3 @@
-# bip---new-prod-project2-c4d4535e
-Created by Blitzy
+# Blitzy
+
+No dependencies; requires Node.js. Run: `node index.js`
